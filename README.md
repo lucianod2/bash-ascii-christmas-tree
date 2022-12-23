@@ -22,4 +22,4 @@ ${RED}M${GREEN}E${RED}R${GREEN}R${RED}Y ${GREEN}C${RED}H${GREEN}R${RED}I${GREEN}
 "
 ```
 
-![](https://imgur.com/gallery/0ld4pgs)
+![](https://i.imgur.com/uxNmYRl.gif)
