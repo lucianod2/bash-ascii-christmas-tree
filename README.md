@@ -23,3 +23,4 @@ ${RED}M${GREEN}E${RED}R${GREEN}R${RED}Y ${GREEN}C${RED}H${GREEN}R${RED}I${GREEN}
 ```
 
 ![](https://i.imgur.com/uxNmYRl.gif)
+![](https://i.imgur.com/X4ixFei.gif)
